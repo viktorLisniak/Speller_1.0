@@ -44,7 +44,7 @@ bool unload(void);
 
 #endif // DICTIONARY_H
 
-/// these below are my own functions i've created to make implementation of 4 needed functions easier 
+/// these below are additional functions i've created to make implementation of those 4 above functions easier 
 
 LLNode * addnewNode(int boxToAdd); //// adds  new node (at the beginning) to the given linked list
 
